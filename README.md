@@ -2,7 +2,7 @@
 
 Práctica de **Redes II** orientada al desarrollo y análisis de clientes del servicio **Daytime** utilizando los protocolos de transporte **UDP y TCP**.
 
-El servicio Daytime utiliza el **puerto 13** y devuelve una cadena de texto con la fecha y hora del servidor. La práctica permite observar las diferencias entre un protocolo no orientado a conexión como UDP y uno orientado a conexión como TCP. :contentReference[oaicite:0]{index=0}
+El servicio Daytime utiliza el **puerto 13** y devuelve una cadena de texto con la fecha y hora del servidor. La práctica permite observar las diferencias entre un protocolo no orientado a conexión como UDP y uno orientado a conexión como TCP. 
 
 ## Objetivos
 
